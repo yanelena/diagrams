@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T14:37:39.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 OPR/72.0.3815.320" etag="DYsCXUV2DEL6WsXC1wCz" version="13.9.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-13T14:52:08.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 OPR/72.0.3815.320" etag="WSCvzPpsQ-MGYeyhRchg" version="13.9.6" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="742" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -256,6 +256,78 @@
         </mxCell>
         <mxCell id="_j8KghSB7fhCYxD_n0sJ-19" value="Activity" style="text;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="ottmsNTI_S_BpcjQX2E_-1">
           <mxGeometry x="205" y="490" width="580" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1R9BgoCdvyfydXWhO9ye" name="Page-4">
+    <mxGraphModel dx="873" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="qR-CnfhR1q845MLlrEXC-0" />
+        <mxCell id="qR-CnfhR1q845MLlrEXC-1" parent="qR-CnfhR1q845MLlrEXC-0" />
+        <mxCell id="qR-CnfhR1q845MLlrEXC-5" value="Человек" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qR-CnfhR1q845MLlrEXC-1">
+          <mxGeometry x="60" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qR-CnfhR1q845MLlrEXC-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="qR-CnfhR1q845MLlrEXC-1">
+          <mxGeometry x="115" y="120" width="10" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="qR-CnfhR1q845MLlrEXC-7" value="Сенсор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qR-CnfhR1q845MLlrEXC-1">
+          <mxGeometry x="220" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qR-CnfhR1q845MLlrEXC-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="qR-CnfhR1q845MLlrEXC-1">
+          <mxGeometry x="275" y="120" width="10" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="qR-CnfhR1q845MLlrEXC-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.965;exitY=0.07;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.102;entryY=0.068;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qR-CnfhR1q845MLlrEXC-1" source="qR-CnfhR1q845MLlrEXC-6" target="qR-CnfhR1q845MLlrEXC-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="310" y="270" as="sourcePoint" />
+            <mxPoint x="270" y="142" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qR-CnfhR1q845MLlrEXC-10" value="Проходит мимо 1го фонаря" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qR-CnfhR1q845MLlrEXC-1">
+          <mxGeometry x="130" y="110" width="145" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qR-CnfhR1q845MLlrEXC-11" value="1й фонарь" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qR-CnfhR1q845MLlrEXC-1">
+          <mxGeometry x="380" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qR-CnfhR1q845MLlrEXC-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="qR-CnfhR1q845MLlrEXC-1">
+          <mxGeometry x="435" y="120" width="10" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="qR-CnfhR1q845MLlrEXC-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.965;exitY=0.07;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.102;entryY=0.068;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qR-CnfhR1q845MLlrEXC-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="285" y="170.62000000000018" as="sourcePoint" />
+            <mxPoint x="436.37" y="170.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qR-CnfhR1q845MLlrEXC-14" value="Отправить сигнал первому фонарю" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qR-CnfhR1q845MLlrEXC-1">
+          <mxGeometry x="285" y="140" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qR-CnfhR1q845MLlrEXC-15" value="Фонари цепочки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qR-CnfhR1q845MLlrEXC-1">
+          <mxGeometry x="540" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qR-CnfhR1q845MLlrEXC-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="qR-CnfhR1q845MLlrEXC-1">
+          <mxGeometry x="595" y="120" width="10" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="qR-CnfhR1q845MLlrEXC-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.965;exitY=0.07;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.102;entryY=0.068;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qR-CnfhR1q845MLlrEXC-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="445" y="200.62000000000012" as="sourcePoint" />
+            <mxPoint x="596.3699999999999" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qR-CnfhR1q845MLlrEXC-18" value="Отправить сигнал следующему фонарю" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qR-CnfhR1q845MLlrEXC-1">
+          <mxGeometry x="445" y="170" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qR-CnfhR1q845MLlrEXC-20" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=1.043;exitY=0.404;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="qR-CnfhR1q845MLlrEXC-1" source="qR-CnfhR1q845MLlrEXC-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="605" y="220.62000000000012" as="sourcePoint" />
+            <mxPoint x="609" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="320" />
+              <mxPoint x="710" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qR-CnfhR1q845MLlrEXC-21" value="Отправить сигнал следующему фонарю" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qR-CnfhR1q845MLlrEXC-1">
+          <mxGeometry x="605" y="220" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
