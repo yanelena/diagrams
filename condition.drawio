@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-14T07:20:18.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 OPR/72.0.3815.320" etag="Hu9WmPfKwbvNxsjQyQgC" version="13.9.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-11-14T07:22:47.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 OPR/72.0.3815.320" etag="Vpr7FyEznB7BMFabrTHX" version="13.9.7" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="742" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -336,7 +336,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yjEvIEleLf5TVaxZvTb-" name="Page-5">
-    <mxGraphModel dx="5300" dy="3407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="742" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3_qG2YnxdBRBqXX77_9k-0" />
         <mxCell id="3_qG2YnxdBRBqXX77_9k-1" parent="3_qG2YnxdBRBqXX77_9k-0" />
@@ -397,6 +397,39 @@
         </mxCell>
         <mxCell id="KUNYOBGq-Iw91wR1D2gn-18" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;points=[];aspect=fixed;resizable=0;" vertex="1" parent="3_qG2YnxdBRBqXX77_9k-1">
           <mxGeometry x="645" y="290" width="10" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QjBYH-AZjFAicYfv5aw-" name="Page-6">
+    <mxGraphModel dx="618" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="T26JwA4x2S_aCie9dPLn-0" />
+        <mxCell id="T26JwA4x2S_aCie9dPLn-1" parent="T26JwA4x2S_aCie9dPLn-0" />
+        <mxCell id="T26JwA4x2S_aCie9dPLn-2" value="Пакетов" style="text;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="T26JwA4x2S_aCie9dPLn-1">
+          <mxGeometry x="170" y="490" width="580" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T26JwA4x2S_aCie9dPLn-4" value="Индикатор" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;" vertex="1" parent="T26JwA4x2S_aCie9dPLn-1">
+          <mxGeometry x="200" y="310" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="T26JwA4x2S_aCie9dPLn-5" value="Сенсор" style="html=1;" vertex="1" parent="T26JwA4x2S_aCie9dPLn-4">
+          <mxGeometry width="110" height="30" relative="1" as="geometry">
+            <mxPoint x="20" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T26JwA4x2S_aCie9dPLn-6" value="Переулок" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;" vertex="1" parent="T26JwA4x2S_aCie9dPLn-1">
+          <mxGeometry x="400" y="260" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="T26JwA4x2S_aCie9dPLn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="T26JwA4x2S_aCie9dPLn-6" source="T26JwA4x2S_aCie9dPLn-7" target="T26JwA4x2S_aCie9dPLn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T26JwA4x2S_aCie9dPLn-7" value="1й фонарь" style="html=1;" vertex="1" parent="T26JwA4x2S_aCie9dPLn-6">
+          <mxGeometry width="110" height="30" relative="1" as="geometry">
+            <mxPoint x="20" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T26JwA4x2S_aCie9dPLn-8" value="n-й фонарь" style="html=1;" vertex="1" parent="T26JwA4x2S_aCie9dPLn-6">
+          <mxGeometry x="170" y="50" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
